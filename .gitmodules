@@ -1,0 +1,87 @@
+[submodule "tomcat"]
+	path = tomcat
+	url = git@github.com:sparrowzoo/tomcat.git
+[submodule "logback"]
+	path = logback
+	url = git@github.com:sparrowzoo/logback.git
+[submodule "incubator-druid"]
+	path = incubator-druid
+	url = git@github.com:sparrowzoo/incubator-druid.git
+[submodule "open-source-integration"]
+	path = open-source-integration
+	url = git@github.com:sparrowzoo/open-source-integration.git
+[submodule "commons-lang"]
+	path = commons-lang
+	url = git@github.com:sparrowzoo/commons-lang.git
+[submodule "commons-io"]
+	path = commons-io
+	url = git@github.com:sparrowzoo/commons-io.git
+[submodule "commons-codec"]
+	path = commons-codec
+	url = git@github.com:sparrowzoo/commons-codec.git
+[submodule "netty"]
+	path = netty
+	url = git@github.com:sparrowzoo/netty.git
+[submodule "elasticsearch"]
+	path = elasticsearch
+	url = git@github.com:sparrowzoo/elasticsearch.git
+[submodule "spring-framework"]
+	path = spring-framework
+	url = git@github.com:sparrowzoo/spring-framework.git
+[submodule "jedis"]
+	path = jedis
+	url = git@github.com:sparrowzoo/jedis.git
+[submodule "mybatis-3"]
+	path = mybatis-3
+	url = git@github.com:sparrowzoo/mybatis-3.git
+[submodule "incubator-dubbo"]
+	path = incubator-dubbo
+	url = git@github.com:sparrowzoo/incubator-dubbo.git
+[submodule "dubbo-samples"]
+	path = dubbo-samples
+	url = git@github.com:sparrowzoo/dubbo-samples.git
+[submodule "etcd"]
+	path = etcd
+	url = git@github.com:sparrowzoo/etcd.git
+[submodule "quartz"]
+	path = quartz
+	url = git@github.com:sparrowzoo/quartz.git
+[submodule "disconf"]
+	path = disconf
+	url = git@github.com:sparrowzoo/disconf.git
+[submodule "incubator-skywalking"]
+	path = incubator-skywalking
+	url = git@github.com:sparrowzoo/incubator-skywalking.git
+[submodule "commons-fileupload"]
+	path = commons-fileupload
+	url = git@github.com:sparrowzoo/commons-fileupload.git
+[submodule "elastic-job-lite"]
+	path = elastic-job-lite
+	url = git@github.com:sparrowzoo/elastic-job-lite.git
+[submodule "rocketmq"]
+	path = rocketmq
+	url = git@github.com:sparrowzoo/rocketmq.git
+[submodule "zookeeper"]
+	path = zookeeper
+	url = git@github.com:sparrowzoo/zookeeper.git
+[submodule "fastjson"]
+	path = fastjson
+	url = git@github.com:sparrowzoo/fastjson.git
+[submodule "druid"]
+	path = druid
+	url = git@github.com:sparrowzoo/druid.git
+[submodule "elgstic-job-example"]
+	path = elgstic-job-example
+	url = git@github.com:sparrowzoo/elastic-job-example.git
+[submodule "redisson"]
+	path = redisson
+	url = git@github.com:sparrowzoo/redisson.git
+[submodule "id-generator"]
+	path = id-generator
+	url = git@github.com:sparrowzoo/id-generator.git
+[submodule "logback-extensions-spring"]
+	path = logback-extensions-spring
+	url = git@github.com:sparrowzoo/logback-extensions-spring.git
+[submodule "incubator-skywalking-data-collect-protocol"]
+	path = incubator-skywalking-data-collect-protocol
+	url = git@github.com:sparrowzoo/incubator-skywalking-data-collect-protocol.git
