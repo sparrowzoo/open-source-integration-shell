@@ -73,8 +73,8 @@
 [submodule "druid"]
 	path = druid
 	url = git@github.com:sparrowzoo/druid.git
-[submodule "elgstic-job-example"]
-	path = elgstic-job-example
+[submodule "elastic-job-example"]
+	path = elastic-job-example
 	url = git@github.com:sparrowzoo/elastic-job-example.git
 [submodule "redisson"]
 	path = redisson
