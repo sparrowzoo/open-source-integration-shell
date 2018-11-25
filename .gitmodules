@@ -73,8 +73,8 @@
 [submodule "druid"]
 	path = druid
 	url = git@github.com:sparrowzoo/druid.git
-[submodule "elastic-job-example"]
-	path = elastic-job-example
+[submodule "elgstic-job-example"]
+	path = elgstic-job-example
 	url = git@github.com:sparrowzoo/elastic-job-example.git
 [submodule "redisson"]
 	path = redisson
@@ -82,9 +82,9 @@
 [submodule "id-generator"]
 	path = id-generator
 	url = git@github.com:sparrowzoo/id-generator.git
-[submodule "extensions-spring.git"]
-	path = extensions-spring.git
-	url = git@github.com:sparrowzoo/logback
+[submodule "logback-extensions-spring"]
+	path = logback-extensions-spring
+	url = git@github.com:sparrowzoo/logback-extensions-spring.git
 [submodule "incubator-skywalking-data-collect-protocol"]
 	path = incubator-skywalking-data-collect-protocol
 	url = git@github.com:sparrowzoo/incubator-skywalking-data-collect-protocol.git

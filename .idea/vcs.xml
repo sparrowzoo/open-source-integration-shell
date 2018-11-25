@@ -2,5 +2,34 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/commons-codec" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/commons-fileupload" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/commons-io" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/commons-lang" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/disconf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/druid" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dubbo-samples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/elastic-job-lite" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/elasticsearch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/elgstic-job-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/etcd" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/fastjson" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/id-generator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/incubator-druid" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/incubator-dubbo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/incubator-skywalking" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/incubator-skywalking-data-collect-protocol" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jedis" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/logback" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/logback-extensions-spring" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mybatis-3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/netty" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/open-source-integration" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/quartz" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/redisson" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/rocketmq" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-framework" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tomcat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zookeeper" vcs="Git" />
   </component>
 </project>
