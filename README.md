@@ -49,3 +49,6 @@ init 创建新项目或添加子模块(下列代码，不需要执行)
 	git submodule foreach git ...[fetch|pull|checkout...]
 
 
+maven
+---
+mvn clean install -U -Dmaven.test.skip  -Dmaven.javadoc.skip=true
