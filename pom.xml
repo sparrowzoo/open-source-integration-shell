@@ -36,21 +36,20 @@
         <module>commons-io</module>
         <module>commons-lang</module>
         <module>disconf</module>
-        <module>druid</module>
         <module>fastjson</module>
-        <module>id-generator</module>
-        <module>incubator-druid</module>
         <module>incubator-dubbo</module>
         <module>jedis</module>
         <module>logback</module>
         <module>mybatis-3</module>
-        <module>netty</module>
         <module>quartz</module>
+        <module>druid</module>
+        <module>id-generator</module>
+        <module>incubator-druid</module>
+        <module>netty</module>
         <!--<module>open-source-integration</module>-->
         <!--<module>elastic-job-lite</module>-->
         <!--<module>redisson</module>-->
     </modules>
-
     <build>
         <finalName>${project.artifactId}</finalName>
     </build>
