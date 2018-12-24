@@ -1,54 +1,33 @@
-init 创建新项目或添加子模块(下列代码，不需要执行)
-------------------------------------------------
-    git submodule add git@github.com:sparrowzoo/tomcat.git                      tomcat
-	git submodule add git@github.com:sparrowzoo/logback.git                     logback
-	git submodule add git@github.com:sparrowzoo/incubator-druid.git             incubator-druid
-	git submodule add git@github.com:sparrowzoo/open-source-integration.git     open-source-integration
-	git submodule add git@github.com:sparrowzoo/commons-lang.git                commons-lang
-	git submodule add git@github.com:sparrowzoo/commons-io.git                  commons-io
-    git submodule add git@github.com:sparrowzoo/commons-codec.git               commons-codec
-	git submodule add git@github.com:sparrowzoo/netty.git                       netty
-	git submodule add git@github.com:sparrowzoo/elasticsearch.git               elasticsearch
-	git submodule add git@github.com:sparrowzoo/spring-framework.git            spring-framework
-	git submodule add git@github.com:sparrowzoo/jedis.git                       jedis
-	git submodule add git@github.com:sparrowzoo/mybatis-3.git                   mybatis-3
-	git submodule add git@github.com:sparrowzoo/incubator-dubbo.git             incubator-dubbo
-	git submodule add git@github.com:sparrowzoo/dubbo-samples.git               dubbo-samples
-	git submodule add git@github.com:sparrowzoo/etcd.git                        etcd
-	git submodule add git@github.com:sparrowzoo/mybatis-spring.git              mybatis-spring
-    git submodule add git@github.com:sparrowzoo/quartz.git                      quartz
-    git submodule add git@github.com:sparrowzoo/disconf.git                     disconf
-    git submodule add git@github.com:sparrowzoo/incubator-skywalking.git        incubator-skywalking
-    git submodule add git@github.com:sparrowzoo/commons-fileupload.git commons-fileupload
-    git submodule add git@github.com:sparrowzoo/elastic-job-lite.git elastic-job-lite
-    git submodule add git@github.com:sparrowzoo/rocketmq.git rocketmq
-    git submodule add git@github.com:sparrowzoo/zookeeper.git zookeeper
-    git submodule add git@github.com:sparrowzoo/fastjson.git fastjson
-    git submodule add git@github.com:sparrowzoo/druid.git druid
-    git submodule add git@github.com:sparrowzoo/elastic-job-example.git elastic-job-example
-    git submodule add git@github.com:sparrowzoo/redisson.git redisson
-    git submodule add git@github.com:sparrowzoo/id-generator.git  id-generator
-    git submodule add git@github.com:sparrowzoo/logback-extensions-spring.git logback-extensions-spring
-    git submodule add git@github.com:sparrowzoo/incubator-skywalking-data-collect-protocol.git incubator-skywalking-data-collect-protocol
-    
-            	
-客户端批量代码clone
----
+Eureka
+=====
+[![Build Status](https://travis-ci.org/Netflix/eureka.svg?branch=master)](https://travis-ci.org/Netflix/eureka)
 
-初始化 
----
+Eureka is a REST (Representational State Transfer) based service that is primarily used in the AWS cloud for locating services for the purpose of load balancing and failover of middle-tier servers.
 
-	git clone git@github.com:sparrowzoo/open-source-integration.git
-	cd open-source-integration
-	git submodule update --init
-	git submodule foreach git checkout master
-	
-批量命令
-----
+At Netflix, Eureka is used for the following purposes apart from playing a critical part in mid-tier load balancing.
 
-	git submodule foreach git ...[fetch|pull|checkout...]
+* For aiding Netflix Asgard - an open source service which makes cloud deployments easier, in  
+    + Fast rollback of versions in case of problems avoiding the re-launch of 100's of instances which 
+      could take a long time.
+    + In rolling pushes, for avoiding propagation of a new version to all instances in case of problems.
+
+* For our cassandra deployments to take instances out of traffic for maintenance.
+
+* For our memcached caching services to identify the list of nodes in the ring.
+
+* For carrying other additional application specific metadata about services for various other reasons.
 
 
-maven
----
-mvn clean install -U -Dmaven.test.skip  -Dmaven.javadoc.skip=true
+Building
+----------
+The build requires java8 because of some required libraries that are java8 (servo), but the source and target compatibility are still set to 1.7.
+
+
+Support
+----------
+[Eureka Google Group](https://groups.google.com/forum/?fromgroups#!forum/eureka_netflix)
+
+
+Documentation
+--------------
+Please see [wiki](https://github.com/Netflix/eureka/wiki) for detailed documentation.
