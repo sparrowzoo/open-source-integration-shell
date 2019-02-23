@@ -32,35 +32,24 @@
 
     <modules>
         <module>commons-codec</module>
-        <module>elastic-job-lite</module>
-
         <module>commons-fileupload</module>
         <module>commons-io</module>
         <module>commons-lang</module>
         <module>disconf</module>
-        <module>druid</module>
-        <module>dubbo-simple</module>
-        <module>elasticsearch</module>
-        <module>elastic-job-example</module>
-        <module>etcd</module>
         <module>fastjson</module>
-        <module>id-generator</module>
-        <module>incubator-druid</module>
         <module>incubator-dubbo</module>
-        <module>incubator-skywolking</module>
-        <module>incubator-skywolking-data-collect-protocol</module>
         <module>jedis</module>
         <module>logback</module>
-        <module>logback-extensions-spring</module>
         <module>mybatis-3</module>
-        <module>netty</module>
-        <module>open-source-integration</module>
         <module>quartz</module>
-        <module>redisson</module>
-        <module>spring-framework</module>
-        <module>zookeeper</module>
+        <module>druid</module>
+        <module>id-generator</module>
+        <module>incubator-druid</module>
+        <module>netty</module>
+        <!--<module>open-source-integration</module>-->
+        <!--<module>elastic-job-lite</module>-->
+        <!--<module>redisson</module>-->
     </modules>
-
     <build>
         <finalName>${project.artifactId}</finalName>
     </build>
