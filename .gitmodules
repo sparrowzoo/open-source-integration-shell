@@ -38,13 +38,10 @@
 [submodule "dubbo-samples"]
 	path = dubbo-samples
 	url = git@github.com:sparrowzoo/dubbo-samples.git
-[submodule "etcd"]
-	path = etcd
-	url = git@github.com:sparrowzoo/etcd.git
 [submodule "mybatis-spring"]
 	path = mybatis-spring
 	url = git@github.com:sparrowzoo/mybatis-spring.git
-[submodule "quartz"]
+[submodule "quartz"]f
 	path = quartz
 	url = git@github.com:sparrowzoo/quartz.git
 [submodule "disconf"]
