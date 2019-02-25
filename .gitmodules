@@ -1,6 +1,3 @@
-[submodule "disconf"]
-	path = disconf
-	url = git@github.com:sparrowzoo/disconf.git
 [submodule "eureka"]
 	path = eureka
 	url = git@github.com:sparrowzoo/eureka.git
