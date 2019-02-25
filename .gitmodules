@@ -88,3 +88,6 @@
 [submodule "incubator-skywalking-data-collect-protocol"]
 	path = incubator-skywalking-data-collect-protocol
 	url = git@github.com:sparrowzoo/incubator-skywalking-data-collect-protocol.git
+[submodule "eureka"]
+	path = eureka
+	url = git@github.com:sparrowzoo/eureka.git
