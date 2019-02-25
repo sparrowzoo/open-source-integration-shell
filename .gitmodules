@@ -22,9 +22,7 @@
 [submodule "netty"]
 	path = netty
 	url = git@github.com:sparrowzoo/netty.git
-[submodule "elasticsearch"]
-	path = elasticsearch
-	url = git@github.com:sparrowzoo/elasticsearch.git
+
 [submodule "spring-framework"]
 	path = spring-framework
 	url = git@github.com:sparrowzoo/spring-framework.git
