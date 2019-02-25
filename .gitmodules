@@ -89,3 +89,6 @@
 [submodule "eureka"]
 	path = eureka
 	url = git@github.com:sparrowzoo/eureka.git
+[submodule "elasticsearch"]
+	path = elasticsearch
+	url = git@github.com:sparrowzoo/elasticsearch.git
