@@ -62,9 +62,6 @@
 [submodule "zookeeper"]
 	path = zookeeper
 	url = git@github.com:sparrowzoo/zookeeper.git
-[submodule "fastjson"]
-	path = fastjson
-	url = git@github.com:sparrowzoo/fastjson.git
 [submodule "druid"]
 	path = druid
 	url = git@github.com:sparrowzoo/druid.git
@@ -89,3 +86,6 @@
 [submodule "elasticsearch"]
 	path = elasticsearch
 	url = git@github.com:sparrowzoo/elasticsearch.git
+[submodule "etcd"]
+	path = etcd
+	url = git@github.com:sparrowzoo/etcd.git
