@@ -1,9 +1,6 @@
 [submodule "eureka"]
 	path = eureka
 	url = git@github.com:sparrowzoo/eureka.git
-[submodule "elasticsearch"]
-	path = elasticsearch
-	url = git@github.com:sparrowzoo/elasticsearch.git
 [submodule "etcd"]
 	path = etcd
 	url = git@github.com:sparrowzoo/etcd.git

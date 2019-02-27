@@ -48,3 +48,4 @@ git submodule add git@github.com:sparrowzoo/logback-extensions-spring.git logbac
 
 git submodule add git@github.com:sparrowzoo/incubator-skywalking-data-collect-protocol.git  incubator-skywalking-data-collect-protocol
 
+git submodule add git@github.com:sparrowzoo/elasticsearch.git elasticsearch

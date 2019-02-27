@@ -4,13 +4,17 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/commons-codec" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/commons-fileupload" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/commons-io" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/commons-lang" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/disconf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/druid" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/dubbo-samples" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/elastic-job-example" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/elastic-job-lite" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/elasticsearch" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/elgstic-job-example" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/etcd" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/eureka" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/fastjson" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/id-generator" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/incubator-druid" vcs="Git" />
