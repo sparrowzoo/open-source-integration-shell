@@ -53,3 +53,13 @@ git submodule add git@github.com:sparrowzoo/elasticsearch.git elasticsearch
 git submodule add git@github.com:sparrowzoo/etcd.git etcd
 
 git submodule add git@github.com:sparrowzoo/fastjson.git fastjson
+
+git submodule add git@github.com:sparrowzoo/jedis.git jedis
+
+git submodule add git@github.com:sparrowzoo/quartz.git quartz
+
+git submodule add git@github.com:sparrowzoo/mybatis-3.git mybatis-3
+
+git submodule add git@github.com:sparrowzoo/incubator-dubbo.git incubator-dubbo
+
+incubator-dubbo

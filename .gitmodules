@@ -67,3 +67,21 @@
 [submodule "elasticsearch"]
 	path = elasticsearch
 	url = git@github.com:sparrowzoo/elasticsearch.git
+[submodule "etcd"]
+	path = etcd
+	url = git@github.com:sparrowzoo/etcd.git
+[submodule "fastjson"]
+	path = fastjson
+	url = git@github.com:sparrowzoo/fastjson.git
+[submodule "jedis"]
+	path = jedis
+	url = git@github.com:sparrowzoo/jedis.git
+[submodule "quartz"]
+	path = quartz
+	url = git@github.com:sparrowzoo/quartz.git
+[submodule "mybatis-3"]
+	path = mybatis-3
+	url = git@github.com:sparrowzoo/mybatis-3.git
+[submodule "incubator-dubbo"]
+	path = incubator-dubbo
+	url = git@github.com:sparrowzoo/incubator-dubbo.git

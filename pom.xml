@@ -44,11 +44,10 @@
         <module>quartz</module>
         <module>druid</module>
         <module>id-generator</module>
-        <module>incubator-druid</module>
         <module>netty</module>
-        <!--<module>open-source-integration</module>-->
-        <!--<module>elastic-job-lite</module>-->
-        <!--<module>redisson</module>-->
+        <module>open-source-integration</module>
+        <module>elastic-job-lite</module>
+        <module>redisson</module>
     </modules>
     <build>
         <finalName>${project.artifactId}</finalName>
