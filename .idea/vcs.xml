@@ -28,8 +28,8 @@
     <mapping directory="$PROJECT_DIR$/mybatis-spring" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/netty" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/open-source-integration" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/opentracing-java" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/quartz" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/redisson" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/rocketmq" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/spring-framework" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/tomcat" vcs="Git" />

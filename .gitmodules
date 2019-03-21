@@ -85,3 +85,9 @@
 [submodule "incubator-dubbo"]
 	path = incubator-dubbo
 	url = git@github.com:sparrowzoo/incubator-dubbo.git
+[submodule "opentracing-java"]
+	path = opentracing-java
+	url = git@github.com:sparrowzoo/opentracing-java.git
+[submodule "KafkaOffsetMonitor"]
+	path = KafkaOffsetMonitor
+	url = git@github.com:sparrowzoo/KafkaOffsetMonitor.git

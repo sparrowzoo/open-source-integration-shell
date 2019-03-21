@@ -47,7 +47,8 @@
         <module>netty</module>
         <module>open-source-integration</module>
         <module>elastic-job-lite</module>
-        <module>redisson</module>
+        <!--<module>redisson</module>-->
+        <module>opentracing-java</module>
     </modules>
     <build>
         <finalName>${project.artifactId}</finalName>
