@@ -2,6 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KafkaOffsetMonitor" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/commons-codec" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/commons-fileupload" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/commons-io" vcs="Git" />
@@ -30,6 +31,7 @@
     <mapping directory="$PROJECT_DIR$/open-source-integration" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/opentracing-java" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/quartz" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/redisson" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/rocketmq" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/spring-framework" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/tomcat" vcs="Git" />
