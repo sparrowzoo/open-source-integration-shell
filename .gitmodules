@@ -91,3 +91,6 @@
 [submodule "KafkaOffsetMonitor"]
 	path = KafkaOffsetMonitor
 	url = git@github.com:sparrowzoo/KafkaOffsetMonitor.git
+[submodule "pdfbox"]
+	path = pdfbox
+	url = git@github.com:sparrowzoo/pdfbox.git

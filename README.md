@@ -66,3 +66,7 @@ git submodule add git@github.com:sparrowzoo/incubator-dubbo.git incubator-dubbo
 git submodule add git@github.com:sparrowzoo/opentracing-java.git opentracing-java
 
 git submodule add git@github.com:sparrowzoo/KafkaOffsetMonitor.git KafkaOffsetMonitor
+
+git submodule add git@github.com:sparrowzoo/pdfbox.git pdfbox
+
+git submodule add git@github.com:sparrowzoo/itext7.git itext7
