@@ -94,3 +94,12 @@
 [submodule "pdfbox"]
 	path = pdfbox
 	url = git@github.com:sparrowzoo/pdfbox.git
+[submodule "itext7"]
+	path = itext7
+	url = git@github.com:sparrowzoo/itext7.git
+[submodule "poi"]
+	path = poi
+	url = git@github.com:sparrowzoo/poi.git
+[submodule "lucy-xss-servlet-filter"]
+	path = lucy-xss-servlet-filter
+	url = git@github.com:naver/lucy-xss-servlet-filter.git

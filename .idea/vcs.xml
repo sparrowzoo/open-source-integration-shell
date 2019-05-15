@@ -22,14 +22,18 @@
     <mapping directory="$PROJECT_DIR$/incubator-dubbo" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/incubator-skywalking" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/incubator-skywalking-data-collect-protocol" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/itext7" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/jedis" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/logback" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/logback-extensions-spring" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lucy-xss-servlet-filter" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/mybatis-3" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/mybatis-spring" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/netty" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/open-source-integration" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/opentracing-java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pdfbox" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/poi" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/quartz" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/redisson" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/rocketmq" vcs="Git" />

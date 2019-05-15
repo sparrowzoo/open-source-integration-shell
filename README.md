@@ -70,3 +70,7 @@ git submodule add git@github.com:sparrowzoo/KafkaOffsetMonitor.git KafkaOffsetMo
 git submodule add git@github.com:sparrowzoo/pdfbox.git pdfbox
 
 git submodule add git@github.com:sparrowzoo/itext7.git itext7
+
+git submodule add git@github.com:sparrowzoo/poi.git poi
+
+git submodule add git@github.com:naver/lucy-xss-servlet-filter.git lucy-xss-servlet-filter 
